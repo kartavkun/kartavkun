@@ -1,16 +1,18 @@
-## Hi there 👋
-I'm gonna customize it lazer
-<!--
-**kartavkun/kartavkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```zsh
+> neofetch
+```
 
-Here are some ideas to get you started:
+<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmY3Ym8yMzJna2sxcDI2Z2xtNnBycThtN3E0b2NnYmlxbm96NWtxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y8giiqQSSDipG1NYC0/giphy.webp" alt="" width="320" /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```csharp
+kartavkun@github
+OWOS: Arch Linuwu and Windows 11
+SHEWW: zsh 5.9
+UWUPTIME: 17 yeaws since 10 Juwwy 2007
+WOCATION: Owewnbuwwg, WU
+SPEAKING: Russian, Engwish
+WANGUAGES: Python, bash
+WEARNING: C++, Swift, Kotwin
+HOBBIES: Gaming, Stweaming, Awguing, mustubating
+WINKS: https://kartavkun.ru
+```
