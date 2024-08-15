@@ -6,6 +6,7 @@
 
 ```csharp
 kartavkun@github
+-------------------------------------------------
 OWOS: Arch Linuwu and Windows 11
 SHEWW: zsh 5.9
 UWUPTIME: 17 yeaws since 10 Juwwy 2007
@@ -13,6 +14,6 @@ WOCATION: Owewnbuwwg, WU
 SPEAKING: Russian, Engwish
 WANGUAGES: Python, bash
 WEARNING: C++, Swift, Kotwin
-HOBBIES: Gaming, Stweaming, Awguing, mustubating
+HOBBIES: Gaming, Stweaming, Awguing, mowostubating
 WINKS: https://kartavkun.ru
 ```
