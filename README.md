@@ -2,7 +2,7 @@
 > uwufetch
 ```
 
-<img align="left" src="https://kartavkun.ru/assets/taliyahgif.gif" alt="" width="239" /> 
+<img align="left" src="https://kartavkun.ru/others/taliyahgif.gif" alt="" width="239" /> 
 
 ```csharp
 kartavkun@github
