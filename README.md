@@ -1,5 +1,5 @@
 ```zsh
-> uwufetch
+kartavkun@github $ > uwufetch
 ```
 
 <img align="left" src="https://kartavkun.ru/others/taliyahgif.gif" alt="" width="239" /> 
