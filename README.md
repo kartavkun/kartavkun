@@ -17,3 +17,5 @@ WEARNING: C++, Swift, Kotwin
 HOBBIES: Gaming, Stweaming, Awguing, mowostubating
 WINKS: https://kartavkun.ru
 ```
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7nkixe2dqv6vtfyr0ygo4arw9&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7nkixe2dqv6vtfyr0ygo4arw9&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
