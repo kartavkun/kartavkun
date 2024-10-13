@@ -2,7 +2,7 @@
 kartavkun@github $ > uwufetch
 ```
 
-<img align="left" src="https://kartavkun.ru/others/taliyahgif.gif" alt="" width="230" /> 
+<img align="left" src="https://raw.githubusercontent.com/kartavkun/site/refs/heads/main/others/taliyahgif.gif" alt="" width="230" /> 
 
 ```csharp
 kartavkun@github
