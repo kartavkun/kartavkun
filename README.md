@@ -9,7 +9,7 @@ kartavkun@github
 -------------------------------------------------
 OWOS: Arch Linuwu and Windows 11
 SHEWW: zsh 5.9
-CODE EDIOWOR: Neowim with NVChad
+CODE EDIOWOR: Neowim
 UWUPTIME: 17 yeaws since 10 Juwwy 2007
 WOCATION: Owewnbuwwg, RU
 SPEAKING: Russian, Engwish
