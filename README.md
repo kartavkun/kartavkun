@@ -16,7 +16,7 @@ SPEAKING: Russian, Engwish
 WANGUAGES: Python, bash
 WEARNING: C++, Swift
 HOBBIES: Gaming, Stweaming
-WINKS: https://kartavkun.ru
+WINKS: https://kartavkun.github.io/site
 ```
 
 <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7nkixe2dqv6vtfyr0ygo4arw9&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=7nkixe2dqv6vtfyr0ygo4arw9&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
