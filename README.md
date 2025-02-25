@@ -7,7 +7,7 @@ kartavkun@github $ > uwufetch
 ```csharp
 kartavkun@github
 -------------------------------------------------
-OWOS: Arch Linuwu and Windows 11
+OWOS: Arch Linuwu
 SHEWW: zsh 5.9
 CODE EDIOWOR: Neowim
 UWUPTIME: 17 yeaws since 10 Juwwy 2007
@@ -15,7 +15,7 @@ WOCATION: Owewnbuwwg, RU
 SPEAKING: Russian, Engwish
 WANGUAGES: Python, bash
 WEARNING: C++, Swift, Kotwin
-HOBBIES: Gaming, Stweaming, Awguing
+HOBBIES: Gaming, Stweaming
 WINKS: https://kartavkun.ru
 ```
 
