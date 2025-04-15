@@ -7,7 +7,7 @@
 ```csharp
 kartavkun@github
 -------------------------------------------------
-OWOS: Arch Linuwu
+OWOS: Arch Linuwu, MacOS Sequioa (OC)
 SHEWW: zsh 5.9
 CODE EDIOWOR: Neowim
 UWUPTIME: 17 yeaws since 10 Juwwy 2007
