@@ -13,8 +13,8 @@ CODE EDIOWOR: Neowim
 UWUPTIME: 17 yeaws since 10 Juwwy 2007
 WOCATION: Owewnbuwwg, RU
 SPEAKING: Russian, Engwish
-WANGUAGES: Python, bash
-WEARNING: C++, Swift
+WANGUAGES: Python, bash, Swift
+WEARNING: C++
 HOBBIES: Gaming, Stweaming
 WINKS: https://kartavkun.github.io/site
 ```
