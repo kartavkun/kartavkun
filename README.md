@@ -14,7 +14,7 @@ UWUPTIME: 18 yeaws since 10 Juwwy 2007
 WOCATION: Owewnbuwwg, RU
 SPEAKING: Russian, Engwish
 WANGUAGES: Python, bash, Swift
-WEARNING: C++
+WEARNING: Nothing
 HOBBIES: Gaming, Stweaming
 WINKS: https://kartavkun.me
 ```
