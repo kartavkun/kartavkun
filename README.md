@@ -10,7 +10,7 @@ kartavkun@github
 OWOS: Arch Linuwu, MacOS Tahoe (Apple Silicon and OC)
 SHEWW: zsh 5.9
 CODE EDIOWOR: Neowim
-UWUPTIME: 18 yeaws since 10 Juwwy 2007
+UWUPTIME: 19 yeaws since 10 Juwwy 2007
 WOCATION: Owewnbuwwg, RU
 SPEAKING: Russian, Engwish
 WANGUAGES: Python, bash, Swift
